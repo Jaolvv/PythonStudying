@@ -1,5 +1,4 @@
 # PythonStudying
 日常Python代码
 # All PythonProject
-## UFO
-pygameProject
+## UFO : pygameProject（打UFO）
